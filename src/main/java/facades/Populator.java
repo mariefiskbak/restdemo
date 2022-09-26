@@ -26,5 +26,4 @@ public class Populator {
     public static void main(String[] args) {
         populate();
     }
-
 }
